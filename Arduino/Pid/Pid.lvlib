@@ -10,6 +10,7 @@
 	<Item Name="LabViewPidSimple.vi" Type="VI" URL="../LabViewPidSimple.vi"/>
 	<Item Name="Limiting.vi" Type="VI" URL="../Limiting.vi"/>
 	<Item Name="PidHmi.vi" Type="VI" URL="../PidHmi.vi"/>
+	<Item Name="PidHmiFloatToTwoWordsInArray.vi" Type="VI" URL="../PidHmiFloatToTwoWordsInArray.vi"/>
 	<Item Name="PidHmiFrequencyToInterval.vi" Type="VI" URL="../PidHmiFrequencyToInterval.vi"/>
 	<Item Name="PidHmiReadInputRegistr.vi" Type="VI" URL="../PidHmiReadInputRegistr.vi"/>
 	<Item Name="PidHmiTwoWordToFloat.vi" Type="VI" URL="../PidHmiTwoWordToFloat.vi"/>

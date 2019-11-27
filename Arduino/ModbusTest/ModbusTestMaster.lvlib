@@ -17,7 +17,7 @@
 		<Property Name="numTypedefs" Type="UInt">0</Property>
 		<Property Name="type" Type="Str">Network</Property>
 		<Property Name="typeDesc" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!:&amp;1!!!"A!A!!!!!!"!!1!)1!"!!!"!!!!!!!!!!!</Property>
-		<Property Name="varSourceProjectPath" Type="Str">My Computer\ModbusTestMaster.lvlib\ModbusTestMasterRtu\</Property>
+		<Property Name="varSourceProjectPath" Type="Str">My Computer\ModbusTestMaster.lvlib\ModbusTestMasterRtu</Property>
 		<Property Name="varSourceProjectSubPath" Type="Str">000001</Property>
 	</Item>
 	<Item Name="000002" Type="Variable">
@@ -33,7 +33,7 @@
 		<Property Name="numTypedefs" Type="UInt">0</Property>
 		<Property Name="type" Type="Str">Network</Property>
 		<Property Name="typeDesc" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!:&amp;1!!!"A!A!!!!!!"!!1!)1!"!!!"!!!!!!!!!!!</Property>
-		<Property Name="varSourceProjectPath" Type="Str">My Computer\ModbusTestMaster.lvlib\ModbusTestMasterRtu\</Property>
+		<Property Name="varSourceProjectPath" Type="Str">My Computer\ModbusTestMaster.lvlib\ModbusTestMasterRtu</Property>
 		<Property Name="varSourceProjectSubPath" Type="Str">000002</Property>
 	</Item>
 	<Item Name="100001" Type="Variable">
@@ -49,7 +49,7 @@
 		<Property Name="numTypedefs" Type="UInt">0</Property>
 		<Property Name="type" Type="Str">Network</Property>
 		<Property Name="typeDesc" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!:&amp;1!!!"A!A!!!!!!"!!1!)1!"!!!"!!!!!!!!!!!</Property>
-		<Property Name="varSourceProjectPath" Type="Str">My Computer\ModbusTestMaster.lvlib\ModbusTestMasterRtu\</Property>
+		<Property Name="varSourceProjectPath" Type="Str">My Computer\ModbusTestMaster.lvlib\ModbusTestMasterRtu</Property>
 		<Property Name="varSourceProjectSubPath" Type="Str">100001</Property>
 	</Item>
 	<Item Name="100002" Type="Variable">
@@ -65,7 +65,7 @@
 		<Property Name="numTypedefs" Type="UInt">0</Property>
 		<Property Name="type" Type="Str">Network</Property>
 		<Property Name="typeDesc" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!:&amp;1!!!"A!A!!!!!!"!!1!)1!"!!!"!!!!!!!!!!!</Property>
-		<Property Name="varSourceProjectPath" Type="Str">My Computer\ModbusTestMaster.lvlib\ModbusTestMasterRtu\</Property>
+		<Property Name="varSourceProjectPath" Type="Str">My Computer\ModbusTestMaster.lvlib\ModbusTestMasterRtu</Property>
 		<Property Name="varSourceProjectSubPath" Type="Str">100002</Property>
 	</Item>
 	<Item Name="300001" Type="Variable">
@@ -81,7 +81,7 @@
 		<Property Name="numTypedefs" Type="UInt">0</Property>
 		<Property Name="type" Type="Str">Network</Property>
 		<Property Name="typeDesc" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!&lt;&amp;Q!!!"A!A!!!!!!"!!5!"A!!!1!!!!!!!!!!!!!!!!</Property>
-		<Property Name="varSourceProjectPath" Type="Str">My Computer\ModbusTestMaster.lvlib\ModbusTestMasterRtu\</Property>
+		<Property Name="varSourceProjectPath" Type="Str">My Computer\ModbusTestMaster.lvlib\ModbusTestMasterRtu</Property>
 		<Property Name="varSourceProjectSubPath" Type="Str">300001</Property>
 	</Item>
 	<Item Name="300002" Type="Variable">
@@ -97,7 +97,7 @@
 		<Property Name="numTypedefs" Type="UInt">0</Property>
 		<Property Name="type" Type="Str">Network</Property>
 		<Property Name="typeDesc" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!&lt;&amp;Q!!!"A!A!!!!!!"!!5!"A!!!1!!!!!!!!!!!!!!!!</Property>
-		<Property Name="varSourceProjectPath" Type="Str">My Computer\ModbusTestMaster.lvlib\ModbusTestMasterRtu\</Property>
+		<Property Name="varSourceProjectPath" Type="Str">My Computer\ModbusTestMaster.lvlib\ModbusTestMasterRtu</Property>
 		<Property Name="varSourceProjectSubPath" Type="Str">300002</Property>
 	</Item>
 	<Item Name="400001" Type="Variable">
@@ -113,7 +113,7 @@
 		<Property Name="numTypedefs" Type="UInt">0</Property>
 		<Property Name="type" Type="Str">Network</Property>
 		<Property Name="typeDesc" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!&lt;&amp;Q!!!"A!A!!!!!!"!!5!"A!!!1!!!!!!!!!!!!!!!!</Property>
-		<Property Name="varSourceProjectPath" Type="Str">My Computer\ModbusTestMaster.lvlib\ModbusTestMasterRtu\</Property>
+		<Property Name="varSourceProjectPath" Type="Str">My Computer\ModbusTestMaster.lvlib\ModbusTestMasterRtu</Property>
 		<Property Name="varSourceProjectSubPath" Type="Str">400001</Property>
 	</Item>
 	<Item Name="400002" Type="Variable">
@@ -129,7 +129,7 @@
 		<Property Name="numTypedefs" Type="UInt">0</Property>
 		<Property Name="type" Type="Str">Network</Property>
 		<Property Name="typeDesc" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!&lt;&amp;Q!!!"A!A!!!!!!"!!5!"A!!!1!!!!!!!!!!!!!!!!</Property>
-		<Property Name="varSourceProjectPath" Type="Str">My Computer\ModbusTestMaster.lvlib\ModbusTestMasterRtu\</Property>
+		<Property Name="varSourceProjectPath" Type="Str">My Computer\ModbusTestMaster.lvlib\ModbusTestMasterRtu</Property>
 		<Property Name="varSourceProjectSubPath" Type="Str">400002</Property>
 	</Item>
 	<Item Name="CommFail" Type="Variable">
@@ -145,7 +145,7 @@
 		<Property Name="numTypedefs" Type="UInt">0</Property>
 		<Property Name="type" Type="Str">Network</Property>
 		<Property Name="typeDesc" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!:&amp;1!!!"A!A!!!!!!"!!1!)1!"!!!"!!!!!!!!!!!</Property>
-		<Property Name="varSourceProjectPath" Type="Str">My Computer\ModbusTestMaster.lvlib\ModbusTestMasterRtu\</Property>
+		<Property Name="varSourceProjectPath" Type="Str">My Computer\ModbusTestMaster.lvlib\ModbusTestMasterRtu</Property>
 		<Property Name="varSourceProjectSubPath" Type="Str">CommFail</Property>
 	</Item>
 	<Item Name="D300011" Type="Variable">
@@ -161,7 +161,7 @@
 		<Property Name="numTypedefs" Type="UInt">0</Property>
 		<Property Name="type" Type="Str">Network</Property>
 		<Property Name="typeDesc" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!&gt;'1!!!"A!A!!!!!!"!!5!"Q!!!1!!!!!!!!!!!!!!!!!!</Property>
-		<Property Name="varSourceProjectPath" Type="Str">My Computer\ModbusTestMaster.lvlib\ModbusTestMasterRtu\</Property>
+		<Property Name="varSourceProjectPath" Type="Str">My Computer\ModbusTestMaster.lvlib\ModbusTestMasterRtu</Property>
 		<Property Name="varSourceProjectSubPath" Type="Str">D300011</Property>
 	</Item>
 	<Item Name="D300013" Type="Variable">
@@ -177,7 +177,7 @@
 		<Property Name="numTypedefs" Type="UInt">0</Property>
 		<Property Name="type" Type="Str">Network</Property>
 		<Property Name="typeDesc" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!&gt;'1!!!"A!A!!!!!!"!!5!"Q!!!1!!!!!!!!!!!!!!!!!!</Property>
-		<Property Name="varSourceProjectPath" Type="Str">My Computer\ModbusTestMaster.lvlib\ModbusTestMasterRtu\</Property>
+		<Property Name="varSourceProjectPath" Type="Str">My Computer\ModbusTestMaster.lvlib\ModbusTestMasterRtu</Property>
 		<Property Name="varSourceProjectSubPath" Type="Str">D300013</Property>
 	</Item>
 	<Item Name="D400011" Type="Variable">
@@ -193,7 +193,7 @@
 		<Property Name="numTypedefs" Type="UInt">0</Property>
 		<Property Name="type" Type="Str">Network</Property>
 		<Property Name="typeDesc" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!&gt;'1!!!"A!A!!!!!!"!!5!"Q!!!1!!!!!!!!!!!!!!!!!!</Property>
-		<Property Name="varSourceProjectPath" Type="Str">My Computer\ModbusTestMaster.lvlib\ModbusTestMasterRtu\</Property>
+		<Property Name="varSourceProjectPath" Type="Str">My Computer\ModbusTestMaster.lvlib\ModbusTestMasterRtu</Property>
 		<Property Name="varSourceProjectSubPath" Type="Str">D400011</Property>
 	</Item>
 	<Item Name="D400013" Type="Variable">
@@ -209,7 +209,7 @@
 		<Property Name="numTypedefs" Type="UInt">0</Property>
 		<Property Name="type" Type="Str">Network</Property>
 		<Property Name="typeDesc" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!&gt;'1!!!"A!A!!!!!!"!!5!"Q!!!1!!!!!!!!!!!!!!!!!!</Property>
-		<Property Name="varSourceProjectPath" Type="Str">My Computer\ModbusTestMaster.lvlib\ModbusTestMasterRtu\</Property>
+		<Property Name="varSourceProjectPath" Type="Str">My Computer\ModbusTestMaster.lvlib\ModbusTestMasterRtu</Property>
 		<Property Name="varSourceProjectSubPath" Type="Str">D400013</Property>
 	</Item>
 	<Item Name="F300007" Type="Variable">
@@ -225,7 +225,7 @@
 		<Property Name="numTypedefs" Type="UInt">0</Property>
 		<Property Name="type" Type="Str">Network</Property>
 		<Property Name="typeDesc" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!&gt;'1!!!"A!A!!!!!!"!!5!#1!!!1!!!!!!!!!!!!!!!!!!</Property>
-		<Property Name="varSourceProjectPath" Type="Str">My Computer\ModbusTestMaster.lvlib\ModbusTestMasterRtu\</Property>
+		<Property Name="varSourceProjectPath" Type="Str">My Computer\ModbusTestMaster.lvlib\ModbusTestMasterRtu</Property>
 		<Property Name="varSourceProjectSubPath" Type="Str">F300007</Property>
 	</Item>
 	<Item Name="F300009" Type="Variable">
@@ -241,7 +241,7 @@
 		<Property Name="numTypedefs" Type="UInt">0</Property>
 		<Property Name="type" Type="Str">Network</Property>
 		<Property Name="typeDesc" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!&gt;'1!!!"A!A!!!!!!"!!5!#1!!!1!!!!!!!!!!!!!!!!!!</Property>
-		<Property Name="varSourceProjectPath" Type="Str">My Computer\ModbusTestMaster.lvlib\ModbusTestMasterRtu\</Property>
+		<Property Name="varSourceProjectPath" Type="Str">My Computer\ModbusTestMaster.lvlib\ModbusTestMasterRtu</Property>
 		<Property Name="varSourceProjectSubPath" Type="Str">F300009</Property>
 	</Item>
 	<Item Name="F400007" Type="Variable">
@@ -257,7 +257,7 @@
 		<Property Name="numTypedefs" Type="UInt">0</Property>
 		<Property Name="type" Type="Str">Network</Property>
 		<Property Name="typeDesc" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!&gt;'1!!!"A!A!!!!!!"!!5!#1!!!1!!!!!!!!!!!!!!!!!!</Property>
-		<Property Name="varSourceProjectPath" Type="Str">My Computer\ModbusTestMaster.lvlib\ModbusTestMasterRtu\</Property>
+		<Property Name="varSourceProjectPath" Type="Str">My Computer\ModbusTestMaster.lvlib\ModbusTestMasterRtu</Property>
 		<Property Name="varSourceProjectSubPath" Type="Str">F400007</Property>
 	</Item>
 	<Item Name="F400009" Type="Variable">
@@ -273,7 +273,7 @@
 		<Property Name="numTypedefs" Type="UInt">0</Property>
 		<Property Name="type" Type="Str">Network</Property>
 		<Property Name="typeDesc" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!&gt;'1!!!"A!A!!!!!!"!!5!#1!!!1!!!!!!!!!!!!!!!!!!</Property>
-		<Property Name="varSourceProjectPath" Type="Str">My Computer\ModbusTestMaster.lvlib\ModbusTestMasterRtu\</Property>
+		<Property Name="varSourceProjectPath" Type="Str">My Computer\ModbusTestMaster.lvlib\ModbusTestMasterRtu</Property>
 		<Property Name="varSourceProjectSubPath" Type="Str">F400009</Property>
 	</Item>
 	<Item Name="ModbusTestMasterRtu" Type="IO Server">
@@ -293,7 +293,7 @@
 		<Property Name="numTypedefs" Type="UInt">0</Property>
 		<Property Name="type" Type="Str">Network</Property>
 		<Property Name="typeDesc" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!:&amp;1!!!"A!A!!!!!!"!!1!)1!"!!!"!!!!!!!!!!!</Property>
-		<Property Name="varSourceProjectPath" Type="Str">My Computer\ModbusTestMaster.lvlib\ModbusTestMasterRtu\</Property>
+		<Property Name="varSourceProjectPath" Type="Str">My Computer\ModbusTestMaster.lvlib\ModbusTestMasterRtu</Property>
 		<Property Name="varSourceProjectSubPath" Type="Str">OffHook</Property>
 	</Item>
 	<Item Name="SD300003" Type="Variable">
@@ -309,7 +309,7 @@
 		<Property Name="numTypedefs" Type="UInt">0</Property>
 		<Property Name="type" Type="Str">Network</Property>
 		<Property Name="typeDesc" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!&gt;'1!!!"A!A!!!!!!"!!5!!Q!!!1!!!!!!!!!!!!!!!!!!</Property>
-		<Property Name="varSourceProjectPath" Type="Str">My Computer\ModbusTestMaster.lvlib\ModbusTestMasterRtu\</Property>
+		<Property Name="varSourceProjectPath" Type="Str">My Computer\ModbusTestMaster.lvlib\ModbusTestMasterRtu</Property>
 		<Property Name="varSourceProjectSubPath" Type="Str">SD300003</Property>
 	</Item>
 	<Item Name="SD300005" Type="Variable">
@@ -325,7 +325,7 @@
 		<Property Name="numTypedefs" Type="UInt">0</Property>
 		<Property Name="type" Type="Str">Network</Property>
 		<Property Name="typeDesc" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!&gt;'1!!!"A!A!!!!!!"!!5!!Q!!!1!!!!!!!!!!!!!!!!!!</Property>
-		<Property Name="varSourceProjectPath" Type="Str">My Computer\ModbusTestMaster.lvlib\ModbusTestMasterRtu\</Property>
+		<Property Name="varSourceProjectPath" Type="Str">My Computer\ModbusTestMaster.lvlib\ModbusTestMasterRtu</Property>
 		<Property Name="varSourceProjectSubPath" Type="Str">SD300005</Property>
 	</Item>
 	<Item Name="SD400003" Type="Variable">
@@ -341,7 +341,7 @@
 		<Property Name="numTypedefs" Type="UInt">0</Property>
 		<Property Name="type" Type="Str">Network</Property>
 		<Property Name="typeDesc" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!&gt;'1!!!"A!A!!!!!!"!!5!!Q!!!1!!!!!!!!!!!!!!!!!!</Property>
-		<Property Name="varSourceProjectPath" Type="Str">My Computer\ModbusTestMaster.lvlib\ModbusTestMasterRtu\</Property>
+		<Property Name="varSourceProjectPath" Type="Str">My Computer\ModbusTestMaster.lvlib\ModbusTestMasterRtu</Property>
 		<Property Name="varSourceProjectSubPath" Type="Str">SD400003</Property>
 	</Item>
 	<Item Name="SD400005" Type="Variable">
@@ -357,7 +357,7 @@
 		<Property Name="numTypedefs" Type="UInt">0</Property>
 		<Property Name="type" Type="Str">Network</Property>
 		<Property Name="typeDesc" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!&gt;'1!!!"A!A!!!!!!"!!5!!Q!!!1!!!!!!!!!!!!!!!!!!</Property>
-		<Property Name="varSourceProjectPath" Type="Str">My Computer\ModbusTestMaster.lvlib\ModbusTestMasterRtu\</Property>
+		<Property Name="varSourceProjectPath" Type="Str">My Computer\ModbusTestMaster.lvlib\ModbusTestMasterRtu</Property>
 		<Property Name="varSourceProjectSubPath" Type="Str">SD400005</Property>
 	</Item>
 	<Item Name="UpdateNow" Type="Variable">
@@ -373,7 +373,7 @@
 		<Property Name="numTypedefs" Type="UInt">0</Property>
 		<Property Name="type" Type="Str">Network</Property>
 		<Property Name="typeDesc" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!:&amp;1!!!"A!A!!!!!!"!!1!)1!"!!!"!!!!!!!!!!!</Property>
-		<Property Name="varSourceProjectPath" Type="Str">My Computer\ModbusTestMaster.lvlib\ModbusTestMasterRtu\</Property>
+		<Property Name="varSourceProjectPath" Type="Str">My Computer\ModbusTestMaster.lvlib\ModbusTestMasterRtu</Property>
 		<Property Name="varSourceProjectSubPath" Type="Str">UpdateNow</Property>
 	</Item>
 	<Item Name="UpdateRate" Type="Variable">
@@ -389,7 +389,7 @@
 		<Property Name="numTypedefs" Type="UInt">0</Property>
 		<Property Name="type" Type="Str">Network</Property>
 		<Property Name="typeDesc" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"A!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!!!!!!!</Property>
-		<Property Name="varSourceProjectPath" Type="Str">My Computer\ModbusTestMaster.lvlib\ModbusTestMasterRtu\</Property>
+		<Property Name="varSourceProjectPath" Type="Str">My Computer\ModbusTestMaster.lvlib\ModbusTestMasterRtu</Property>
 		<Property Name="varSourceProjectSubPath" Type="Str">UpdateRate</Property>
 	</Item>
 	<Item Name="Updating" Type="Variable">
@@ -405,7 +405,7 @@
 		<Property Name="numTypedefs" Type="UInt">0</Property>
 		<Property Name="type" Type="Str">Network</Property>
 		<Property Name="typeDesc" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!:&amp;1!!!"A!A!!!!!!"!!1!)1!"!!!"!!!!!!!!!!!</Property>
-		<Property Name="varSourceProjectPath" Type="Str">My Computer\ModbusTestMaster.lvlib\ModbusTestMasterRtu\</Property>
+		<Property Name="varSourceProjectPath" Type="Str">My Computer\ModbusTestMaster.lvlib\ModbusTestMasterRtu</Property>
 		<Property Name="varSourceProjectSubPath" Type="Str">Updating</Property>
 	</Item>
 </Library>

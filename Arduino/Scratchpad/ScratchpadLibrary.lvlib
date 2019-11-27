@@ -5,6 +5,7 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Item Name="Event.vi" Type="VI" URL="../Event.vi"/>
+	<Item Name="ExperimentControlXControl.xctl" Type="XControl" URL="../ExperimentControlXControl.xctl"/>
 	<Item Name="FrequencyToMillisecondsWithDefault.vi" Type="VI" URL="../../SubVi/FrequencyToMillisecondsWithDefault.vi"/>
 	<Item Name="ModbusManual.vi" Type="VI" URL="../ModbusManual.vi"/>
 	<Item Name="TestLabViewPid.vi" Type="VI" URL="../TestLabViewPid.vi"/>

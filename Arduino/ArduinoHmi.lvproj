@@ -1,71 +1,5 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Project Type="Project" LVVersion="18008000">
-	<Property Name="varPersistentID:{00A067C4-437C-4861-8292-FED3CE28254A}" Type="Ref">/My Computer/Modbus Test/ModbusTestMaster.lvlib/F400009</Property>
-	<Property Name="varPersistentID:{049740B7-C13F-4260-BB95-8247300AF79D}" Type="Ref">/My Computer/Modbus Test/ModbusTestMasterSimple.lvlib/300001</Property>
-	<Property Name="varPersistentID:{0A8A0425-1C7B-4969-A225-16E367CBED20}" Type="Ref">/My Computer/Modbus Test/ModbusTestMaster.lvlib/D400013</Property>
-	<Property Name="varPersistentID:{16B74E03-0388-44B6-9053-2A6EAF1EA823}" Type="Ref">/My Computer/Modbus Test/ModbusTestMaster.lvlib/F300009</Property>
-	<Property Name="varPersistentID:{17668011-4B2A-468A-9D08-EE8983C36C12}" Type="Ref">/My Computer/Pid/PidModbusMaster.lvlib/F400012</Property>
-	<Property Name="varPersistentID:{216A4D3E-F224-4F30-BCC0-5A8BCB978CE7}" Type="Ref">/My Computer/Pid/PidModbusMaster.lvlib/F400002</Property>
-	<Property Name="varPersistentID:{338A3893-F54D-469D-80ED-9BC4E4CF860D}" Type="Ref">/My Computer/Modbus Test/ModbusTestMaster.lvlib/100002</Property>
-	<Property Name="varPersistentID:{3AD71755-FD2B-4AC7-B207-804BA2F39C58}" Type="Ref">/My Computer/Modbus Test/ModbusTestMaster.lvlib/000001</Property>
-	<Property Name="varPersistentID:{3B4E8B5B-A51A-4DB7-A214-CA6A4A7A864D}" Type="Ref">/My Computer/Modbus Test/ModbusTestMasterSimple.lvlib/D400013</Property>
-	<Property Name="varPersistentID:{3C4F7E7A-D79B-4D9A-9B26-F6D501C50734}" Type="Ref">/My Computer/Modbus Test/ModbusTestMaster.lvlib/D300013</Property>
-	<Property Name="varPersistentID:{425B92B5-DE5A-4DF3-9CDD-FB6383C1B775}" Type="Ref">/My Computer/Modbus Test/ModbusTestMaster.lvlib/Updating</Property>
-	<Property Name="varPersistentID:{434F0020-60C1-48A3-945A-1A3762FFE9F7}" Type="Ref">/My Computer/Modbus Test/ModbusTestMasterSimple.lvlib/D300013</Property>
-	<Property Name="varPersistentID:{439AF33A-0299-422D-B2CC-D08913BBECDF}" Type="Ref">/My Computer/Modbus Test/ModbusTestMaster.lvlib/SD300003</Property>
-	<Property Name="varPersistentID:{44F37976-3243-4769-8CE1-BDF3F43C0D54}" Type="Ref">/My Computer/Modbus Test/ModbusTestMaster.lvlib/400002</Property>
-	<Property Name="varPersistentID:{4AE8BB39-B671-4C52-B1FB-CC816BF116CD}" Type="Ref">/My Computer/Modbus Test/ModbusTestMaster.lvlib/SD300005</Property>
-	<Property Name="varPersistentID:{4EE5D62B-CFBB-4292-8EDE-06D64A776241}" Type="Ref">/My Computer/Modbus Test/ModbusTestMasterSimple.lvlib/SD300004</Property>
-	<Property Name="varPersistentID:{4FD7CFDD-0874-48F3-BEB0-ED60B72B4390}" Type="Ref">/My Computer/Modbus Test/ModbusTestMasterSimple.lvlib/D300011</Property>
-	<Property Name="varPersistentID:{50D822FA-EC62-41CF-B3CE-054D30FA7CFD}" Type="Ref">/My Computer/Pid/PidModbusMaster.lvlib/F300002</Property>
-	<Property Name="varPersistentID:{5DF81E6C-4643-407C-B3D5-7B7CA3623255}" Type="Ref">/My Computer/Modbus Test/ModbusTestMasterSimple.lvlib/D400011</Property>
-	<Property Name="varPersistentID:{5F305AD3-E9D8-4E1C-9792-7F7ACE172C30}" Type="Ref">/My Computer/Modbus Test/ModbusTestMasterSimple.lvlib/100002</Property>
-	<Property Name="varPersistentID:{65321D5E-B45E-4B72-A10F-A165F5A6F2F8}" Type="Ref">/My Computer/Modbus Test/ModbusTestMasterSimple.lvlib/SD300005</Property>
-	<Property Name="varPersistentID:{67D0D1DD-9069-4FFB-B473-F39C5C5EEBA7}" Type="Ref">/My Computer/Modbus Test/ModbusTestMasterSimple.lvlib/000001</Property>
-	<Property Name="varPersistentID:{6A6D0782-AD71-475E-A32A-63415641538D}" Type="Ref">/My Computer/Modbus Test/ModbusTestMasterSimple.lvlib/OffHook</Property>
-	<Property Name="varPersistentID:{6B316B86-A4AE-4DBF-B2AE-C24CD4D35AAE}" Type="Ref">/My Computer/Modbus Test/ModbusTestMaster.lvlib/UpdateRate</Property>
-	<Property Name="varPersistentID:{71258F15-17CD-4DDC-94E0-48DC9EA8BEF2}" Type="Ref">/My Computer/Modbus Test/ModbusTestMasterSimple.lvlib/100001</Property>
-	<Property Name="varPersistentID:{75EECD5F-4B92-4A38-93BE-343D3B677A7C}" Type="Ref">/My Computer/Modbus Test/ModbusTestMasterSimple.lvlib/UpdateNow</Property>
-	<Property Name="varPersistentID:{7A0632A7-F59B-46DB-96E9-6D9C64585591}" Type="Ref">/My Computer/Pid/PidModbusMaster.lvlib/UpdateRate</Property>
-	<Property Name="varPersistentID:{7AA4D9A4-D1FA-4254-891D-C0C73937C10D}" Type="Ref">/My Computer/Modbus Test/ModbusTestMasterSimple.lvlib/SD300006</Property>
-	<Property Name="varPersistentID:{7F5B25F3-7899-4C0A-88CD-B6E97B52C53C}" Type="Ref">/My Computer/Modbus Test/ModbusTestMasterSimple.lvlib/SD400005</Property>
-	<Property Name="varPersistentID:{823661E7-0C39-48EA-9626-88A2B1485D32}" Type="Ref">/My Computer/Pid/PidModbusMaster.lvlib/UpdateNow</Property>
-	<Property Name="varPersistentID:{834BDB5F-195D-4803-850C-280A8092A4D1}" Type="Ref">/My Computer/Modbus Test/ModbusTestMaster.lvlib/000002</Property>
-	<Property Name="varPersistentID:{85CD4DAE-4E1E-4536-9DC6-BF2C9A8F54A4}" Type="Ref">/My Computer/Pid/PidModbusMaster.lvlib/F400006</Property>
-	<Property Name="varPersistentID:{876E0200-AF7B-4C42-B85F-745E0998ECFD}" Type="Ref">/My Computer/Modbus Test/ModbusTestMasterSimple.lvlib/SD400003</Property>
-	<Property Name="varPersistentID:{88A7AE81-767F-4F28-80DF-99236A845B58}" Type="Ref">/My Computer/Modbus Test/ModbusTestMasterSimple.lvlib/F400007</Property>
-	<Property Name="varPersistentID:{88EBD813-CFEE-4CDF-B847-B2318FE0F86B}" Type="Ref">/My Computer/Pid/PidModbusMaster.lvlib/F400004</Property>
-	<Property Name="varPersistentID:{8ACF6AB4-04EB-48A2-A884-6B3186F9FD4B}" Type="Ref">/My Computer/Modbus Test/ModbusTestMaster.lvlib/F400007</Property>
-	<Property Name="varPersistentID:{8C3E276E-95FB-43C7-80CF-F2D3C1EC845E}" Type="Ref">/My Computer/Modbus Test/ModbusTestMasterSimple.lvlib/SD300003</Property>
-	<Property Name="varPersistentID:{8E8F88CA-585A-4F9F-930C-356C1195C03D}" Type="Ref">/My Computer/Modbus Test/ModbusTestMaster.lvlib/F300007</Property>
-	<Property Name="varPersistentID:{8F9EA2DB-F6ED-4D40-9ED2-AA39BD2C0BD7}" Type="Ref">/My Computer/Pid/PidModbusMaster.lvlib/Updating</Property>
-	<Property Name="varPersistentID:{918BFC78-C9EF-4E8B-98B0-CBA1D8848A23}" Type="Ref">/My Computer/Modbus Test/ModbusTestMasterSimple.lvlib/F400009</Property>
-	<Property Name="varPersistentID:{9708EC5E-98CA-42BA-8F17-BC09DD82C329}" Type="Ref">/My Computer/Pid/PidModbusMaster.lvlib/F400010</Property>
-	<Property Name="varPersistentID:{99BC53AD-2356-4AD8-9CE6-028029B00B71}" Type="Ref">/My Computer/Modbus Test/ModbusTestMasterSimple.lvlib/400002</Property>
-	<Property Name="varPersistentID:{9A5CE005-E75A-467A-B557-D69DA3185024}" Type="Ref">/My Computer/Modbus Test/ModbusTestMasterSimple.lvlib/CommFail</Property>
-	<Property Name="varPersistentID:{9AB11A0E-AAE9-437B-BB18-F674C131C82E}" Type="Ref">/My Computer/Pid/PidModbusMaster.lvlib/F400008</Property>
-	<Property Name="varPersistentID:{9C0DF51D-D5D8-4204-9122-8F7A06EF6BFD}" Type="Ref">/My Computer/Modbus Test/ModbusTestMasterSimple.lvlib/UpdateRate</Property>
-	<Property Name="varPersistentID:{9C5547B8-50A9-430C-9A79-90FF17627970}" Type="Ref">/My Computer/Pid/PidModbusMaster.lvlib/S300001</Property>
-	<Property Name="varPersistentID:{A262260F-F5F0-430A-87A1-028F31E7E603}" Type="Ref">/My Computer/Pid/PidModbusMaster.lvlib/CommFail</Property>
-	<Property Name="varPersistentID:{A80CAEB3-9026-4F29-8B52-E7DEE7170B6D}" Type="Ref">/My Computer/Pid/PidModbusMaster.lvlib/S400001</Property>
-	<Property Name="varPersistentID:{AF6DD26F-9043-4E27-A07C-A3692CD4AA08}" Type="Ref">/My Computer/Modbus Test/ModbusTestMaster.lvlib/CommFail</Property>
-	<Property Name="varPersistentID:{B34A2159-735A-4524-A927-5CAC6249A61B}" Type="Ref">/My Computer/Modbus Test/ModbusTestMasterSimple.lvlib/400001</Property>
-	<Property Name="varPersistentID:{B3A634FF-36E7-469A-9C68-BC1C843D1447}" Type="Ref">/My Computer/Modbus Test/ModbusTestMaster.lvlib/OffHook</Property>
-	<Property Name="varPersistentID:{B6078F49-5746-4705-9573-3E4DEEDD4F1B}" Type="Ref">/My Computer/Modbus Test/ModbusTestMaster.lvlib/SD400003</Property>
-	<Property Name="varPersistentID:{B8457951-5C79-4A4E-87DE-52C56578C079}" Type="Ref">/My Computer/Pid/PidModbusMaster.lvlib/000001</Property>
-	<Property Name="varPersistentID:{BA444EB4-33F8-445C-8E30-E217621021A6}" Type="Ref">/My Computer/Pid/PidModbusMaster.lvlib/OffHook</Property>
-	<Property Name="varPersistentID:{BCDC1068-A7A3-4526-9ED7-C566444C78B7}" Type="Ref">/My Computer/Modbus Test/ModbusTestMasterSimple.lvlib/F300009</Property>
-	<Property Name="varPersistentID:{BF78A17D-A1E9-4C54-A195-857BCE592592}" Type="Ref">/My Computer/Modbus Test/ModbusTestMasterSimple.lvlib/000002</Property>
-	<Property Name="varPersistentID:{C8E6ED54-739A-43AA-A0EE-D40AF2D2C0E8}" Type="Ref">/My Computer/Modbus Test/ModbusTestMaster.lvlib/D300011</Property>
-	<Property Name="varPersistentID:{D00F6BD1-108C-4478-A86C-622D4A801C80}" Type="Ref">/My Computer/Modbus Test/ModbusTestMaster.lvlib/SD400005</Property>
-	<Property Name="varPersistentID:{D5E412D0-5335-43F7-A489-DEB3AEA108D6}" Type="Ref">/My Computer/Modbus Test/ModbusTestMaster.lvlib/100001</Property>
-	<Property Name="varPersistentID:{DEAA77EA-B169-4E9B-B58D-4B607447F817}" Type="Ref">/My Computer/Modbus Test/ModbusTestMaster.lvlib/400001</Property>
-	<Property Name="varPersistentID:{E29E0A7F-7A3E-4BBA-81F2-0F04D92F9A4B}" Type="Ref">/My Computer/Modbus Test/ModbusTestMaster.lvlib/300001</Property>
-	<Property Name="varPersistentID:{E61C0863-3069-4913-8BE2-C555B48E4683}" Type="Ref">/My Computer/Modbus Test/ModbusTestMaster.lvlib/D400011</Property>
-	<Property Name="varPersistentID:{E660F9BB-6509-4476-A8CD-8046BE499E1A}" Type="Ref">/My Computer/Modbus Test/ModbusTestMaster.lvlib/UpdateNow</Property>
-	<Property Name="varPersistentID:{E7DE70BF-2AA1-40D8-92B9-571D79692753}" Type="Ref">/My Computer/Modbus Test/ModbusTestMaster.lvlib/300002</Property>
-	<Property Name="varPersistentID:{F6FF1547-3DD2-41A1-BE6F-9FC07C469ED4}" Type="Ref">/My Computer/Modbus Test/ModbusTestMasterSimple.lvlib/F300007</Property>
-	<Property Name="varPersistentID:{FF16940B-2C00-449F-AF8A-34A86807650E}" Type="Ref">/My Computer/Modbus Test/ModbusTestMasterSimple.lvlib/Updating</Property>
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.control.propertiesEnabled" Type="Bool">true</Property>
@@ -78,14 +12,11 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Modbus Test" Type="Folder">
 			<Item Name="Slave Simulator" Type="Folder"/>
-			<Item Name="ModbusTestMaster.lvlib" Type="Library" URL="../ModbusTest/ModbusTestMaster.lvlib"/>
 			<Item Name="ModbusTestMasterHmi.lvlib" Type="Library" URL="../ModbusTest/ModbusTestMasterHmi.lvlib"/>
-			<Item Name="ModbusTestMasterSimple.lvlib" Type="Library" URL="../../Modbus Test Master/ModbusTestMasterSimple.lvlib"/>
 			<Item Name="ModbusTestMasterSimpleHmi.lvlib" Type="Library" URL="../../Modbus Test Master/ModbusTestMasterSimpleHmi.lvlib"/>
 		</Item>
 		<Item Name="Pid" Type="Folder">
 			<Item Name="Pid.lvlib" Type="Library" URL="../PID/Pid.lvlib"/>
-			<Item Name="PidModbusMaster.lvlib" Type="Library" URL="../PID/PidModbusMaster.lvlib"/>
 		</Item>
 		<Item Name="Scratchpad" Type="Folder">
 			<Item Name="ScratchpadLibrary.lvlib" Type="Library" URL="../Scratchpad/ScratchpadLibrary.lvlib"/>
@@ -293,7 +224,7 @@
 				<Property Name="Destination[1].path.type" Type="Str">relativeToProject</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="Exe_Vardep[0].LibDeploy" Type="Bool">true</Property>
-				<Property Name="Exe_Vardep[0].LibItemID" Type="Ref">/My Computer/Pid/PidModbusMaster.lvlib</Property>
+				<Property Name="Exe_Vardep[0].LibItemID" Type="Ref"></Property>
 				<Property Name="Exe_VardepDeployAtStartup" Type="Bool">true</Property>
 				<Property Name="Exe_VardepHideDeployDlg" Type="Bool">true</Property>
 				<Property Name="Exe_VardepLibItemCount" Type="Int">1</Property>
@@ -304,7 +235,7 @@
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Modbus Test/ModbusTestMasterHmi.lvlib/ModbusTestMasterHmi.vi</Property>
 				<Property Name="Source[1].type" Type="Str">VI</Property>
 				<Property Name="Source[2].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[2].itemID" Type="Ref">/My Computer/Modbus Test/ModbusTestMaster.lvlib</Property>
+				<Property Name="Source[2].itemID" Type="Ref"></Property>
 				<Property Name="Source[2].Library.allowMissingMembers" Type="Bool">true</Property>
 				<Property Name="Source[2].type" Type="Str">Library</Property>
 				<Property Name="Source[3].destinationIndex" Type="Int">0</Property>
@@ -315,7 +246,7 @@
 				<Property Name="Source[4].sourceInclusion" Type="Str">TopLevel</Property>
 				<Property Name="Source[4].type" Type="Str">VI</Property>
 				<Property Name="Source[5].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[5].itemID" Type="Ref">/My Computer/Pid/PidModbusMaster.lvlib</Property>
+				<Property Name="Source[5].itemID" Type="Ref"></Property>
 				<Property Name="Source[5].Library.allowMissingMembers" Type="Bool">true</Property>
 				<Property Name="Source[5].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[5].type" Type="Str">Library</Property>
@@ -355,7 +286,7 @@
 				<Property Name="Destination[1].path.type" Type="Str">relativeToProject</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="Exe_Vardep[0].LibDeploy" Type="Bool">true</Property>
-				<Property Name="Exe_Vardep[0].LibItemID" Type="Ref">/My Computer/Pid/PidModbusMaster.lvlib</Property>
+				<Property Name="Exe_Vardep[0].LibItemID" Type="Ref"></Property>
 				<Property Name="Exe_VardepDeployAtStartup" Type="Bool">true</Property>
 				<Property Name="Exe_VardepLibItemCount" Type="Int">1</Property>
 				<Property Name="Exe_VardepUndeployOnExit" Type="Bool">true</Property>
@@ -366,7 +297,7 @@
 				<Property Name="Source[1].sourceInclusion" Type="Str">TopLevel</Property>
 				<Property Name="Source[1].type" Type="Str">VI</Property>
 				<Property Name="Source[2].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[2].itemID" Type="Ref">/My Computer/Pid/PidModbusMaster.lvlib</Property>
+				<Property Name="Source[2].itemID" Type="Ref"></Property>
 				<Property Name="Source[2].Library.allowMissingMembers" Type="Bool">true</Property>
 				<Property Name="Source[2].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[2].type" Type="Str">Library</Property>
